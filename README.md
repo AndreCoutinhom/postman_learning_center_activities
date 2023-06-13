@@ -1,5 +1,9 @@
 # postman_learning_center_activities
-All coding and data structure content gathered from the learning center at postman website
+All coding and data structure content gathered from the learning center at postman website.
+<div style="display: inline_block"><br> 
+<img align="center" alt="Andre-Postman" height="80" width="75" src="https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png">  
+  </div>  
+
 ##
 
 O Postman é uma plataforma colaborativa para testes de API (Interface de Programação de Aplicativos). Ele permite que os desenvolvedores criem, testem, documentem e compartilhem facilmente APIs.
