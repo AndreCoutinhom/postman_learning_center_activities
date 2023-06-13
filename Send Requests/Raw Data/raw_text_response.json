@@ -1,0 +1,21 @@
+{
+    "args": {},
+    "data": "{\r\n    \"title\": \"Great Expectations\"\r\n    \"author\": \"Charles Dickens\"\r\n}",
+    "files": {},
+    "form": {},
+    "headers": {
+        "x-forwarded-proto": "http",
+        "x-forwarded-port": "80",
+        "host": "postman-echo.com",
+        "x-amzn-trace-id": "Root=1-6488c410-09208991364904da34a12e3c",
+        "content-length": "72",
+        "content-type": "application/json",
+        "user-agent": "PostmanRuntime/7.32.2",
+        "accept": "*/*",
+        "postman-token": "00e6d967-e8c7-4943-b0eb-12ae44b9bd87",
+        "accept-encoding": "gzip, deflate, br",
+        "cookie": "sails.sid=s%3ABJZJ81XUWYgHEfu9OMMykz_XvjI3Wh9T.MelT7KrzR7x9FJwNa8HewyRs7ALoo%2FNfhP16ph%2FliYs"
+    },
+    "json": null,
+    "url": "http://postman-echo.com/post"
+}
