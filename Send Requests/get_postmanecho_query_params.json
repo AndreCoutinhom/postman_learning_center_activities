@@ -1,0 +1,18 @@
+{
+    "args": {
+        "ID": "123",
+        "Type": "VIP"
+    },
+    "headers": {
+        "x-forwarded-proto": "http",
+        "x-forwarded-port": "80",
+        "host": "postman-echo.com",
+        "x-amzn-trace-id": "Root=1-6488b9c1-55c9bc1411d6b2ec7058de17",
+        "user-agent": "PostmanRuntime/7.32.2",
+        "accept": "*/*",
+        "postman-token": "fe1a2daf-a3ea-4cf7-9e7d-9ca21ecdd378",
+        "accept-encoding": "gzip, deflate, br",
+        "cookie": "sails.sid=s%3AuYb-xOsUd79HzBT4h8TH_-xQlV2hbyBG.FYqhcxBP%2F%2B9xkAIp37JEgVW9Rk0qtlF1P6f%2FLgvz0P0"
+    },
+    "url": "http://postman-echo.com/get?ID=123&Type=VIP"
+}
